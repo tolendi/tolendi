@@ -24,6 +24,7 @@ I'm a data-focused specialist working with analytics, data processing, and build
 * [Data Generation & Analytics System](https://github.com/tolendi/task_5/tree/main) — end-to-end data pipeline with Google Sheets-based synthetic data generation, Streamlit analytics dashboard, anomaly detection, and automated PDF reporting
 * [SQL Faker Web App](https://github.com/tolendi/task_6/tree/main) — web application for deterministic fake user data generation using SQL stored procedures with Python-based UI and multi-locale support
 * [Microsoft Fabric Urban Analytics Platform](https://github.com/tolendi/NYC-Taxi-Air-Quality-Analysis) — end-to-end lakehouse architecture integrating NYC mobility, air quality, and macroeconomic data using medallion design and unified analytics in Microsoft Fabric
+* [Kazakh Films Pet Project](https://teletype.in/@tolendi-kaken/kaz_films_pet_project) — research-based Excel analysis of Kazakhstan film industry, exploring local cinema trends, storytelling patterns, and notable contemporary and arthouse films
 
 
 ## 📫 Contact
