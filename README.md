@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tolendi 👋
 
 I'm a data-focused specialist working with analytics, data processing, and building practical data solutions.
 
@@ -13,29 +13,23 @@ I'm a data-focused specialist working with analytics, data processing, and build
 
 * Python (Pandas, NumPy)
 * SQL
-* Apache Spark (basic)
-* Kafka (learning)
-* Airflow (learning)
-* AWS (in progress)
+* Microsoft Fabric
+* PowerBI, Tableau, Excel 
 
 ## 📂 Featured Projects
 
-* **Data Analysis Project** – Exploratory data analysis with visualizations
-* **ETL Pipeline** – Data ingestion and transformation workflow
-* **Dashboard Project** – Interactive dashboard (Power BI / Tableau)
+* [Data Ingestion & Transformation](https://github.com/tolendi/TASK-1_DATA/tree/main) — processing malformed JSON, loading data into SQLite, and SQL-based data aggregation 
+* [Bike Rental Analytics Project](https://github.com/tolendi/BicycleRental/tree/main) — relational database design and analytics for a bike rental company, including bonus calculation data mart and stored procedure for staff performance evaluation
+* [Data Cleaning & Analytics Dashboard](https://github.com/tolendi/task_4_data/tree/main) — end-to-end data pipeline: cleaning raw datasets, resolving entity inconsistencies, performing analytical aggregations, and building an interactive Streamlit dashboard
+* [Data Generation & Analytics System](https://github.com/tolendi/task_5/tree/main) — end-to-end data pipeline with Google Sheets-based synthetic data generation, Streamlit analytics dashboard, anomaly detection, and automated PDF reporting
+* [SQL Faker Web App](https://github.com/tolendi/task_6/tree/main) — web application for deterministic fake user data generation using SQL stored procedures with Python-based UI and multi-locale support
+* [Microsoft Fabric Urban Analytics Platform](https://github.com/tolendi/NYC-Taxi-Air-Quality-Analysis) — end-to-end lakehouse architecture integrating NYC mobility, air quality, and macroeconomic data using medallion design and unified analytics in Microsoft Fabric
 
-👉 Check pinned repositories below for details.
-
-## 📈 Currently Learning
-
-* Advanced data engineering concepts
-* Cloud (AWS)
-* Distributed data processing
 
 ## 📫 Contact
 
 * Email: [tolendi.kaken@gmail.com](mailto:tolendi.kaken@gmail.com)
-* LinkedIn: your_link_here
+* LinkedIn: [t-kaken](https://www.linkedin.com/in/t-kaken/)
 
 ---
 
