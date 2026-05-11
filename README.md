@@ -18,6 +18,7 @@ I'm a data-focused specialist working with analytics, data processing, and build
 
 ## 📂 Featured Projects
 
+* [Анализ обеспеченности населения кинотеатрами в Республике Казахстан](https://public.tableau.com/views/2026_17784848242150/sheet0?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - интерактивный дашборд в Tableau для анализа обеспеченности населения кинотеатрами в Казахстане с визуализацией дефицита мест по городам и рыночной доли сетей.
 * [Data Ingestion & Transformation](https://github.com/tolendi/TASK-1_DATA/tree/main) — processing malformed JSON, loading data into SQLite, and SQL-based data aggregation 
 * [Bike Rental Analytics Project](https://github.com/tolendi/BicycleRental/tree/main) — relational database design and analytics for a bike rental company, including bonus calculation data mart and stored procedure for staff performance evaluation
 * [Data Cleaning & Analytics Dashboard](https://github.com/tolendi/task_4_data/tree/main) — end-to-end data pipeline: cleaning raw datasets, resolving entity inconsistencies, performing analytical aggregations, and building an interactive Streamlit dashboard
